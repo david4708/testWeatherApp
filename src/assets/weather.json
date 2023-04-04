@@ -1,0 +1,44 @@
+
+{
+    "coord": {
+      "lon": -75.558,
+      "lat": 6.3373
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 300.53,
+      "feels_like": 300.25,
+      "temp_min": 298.59,
+      "temp_max": 300.53,
+      "pressure": 1014,
+      "humidity": 39
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 7.2,
+      "deg": 30
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1680561804,
+    "sys": {
+      "type": 1,
+      "id": 8577,
+      "country": "CO",
+      "sunrise": 1680519581,
+      "sunset": 1680563465
+    },
+    "timezone": -18000,
+    "id": 3688928,
+    "name": "Bello",
+    "cod": 200
+  }
